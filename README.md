@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> نسيم الهوى مر علينا
+> يا نور العين خذني إليك
+> أشواق قلبي تنادينا
+> روحي فداك وعمري بين يديك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
