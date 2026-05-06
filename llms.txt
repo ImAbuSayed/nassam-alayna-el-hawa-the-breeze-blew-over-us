@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 24, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/nassam-alayna-el-hawa-the-breeze-blew-over-us/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Sync Licensing for Nassam Alayna El Hawa – The Breeze Blew Over Us](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
